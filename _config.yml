@@ -6,7 +6,7 @@ baseurl: ""
 url: "http://megara.com.ve"
 
 twitter_username:
-github_username: https://github.com/megara-ve
+github_username: megara-ve
 
 # Build settings
 markdown: kramdown
